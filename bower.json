@@ -1,0 +1,20 @@
+{
+    "name": "jquery.greedy",
+    "version": "0.0.1",
+    "main": "jquery.greedy.js",
+    "ignore": [
+        "source",
+        "spec",
+        ".bowerrc",
+        ".gitignore",
+        ".jshintignore",
+        ".jshintrc",
+        "bower.json",
+        "gruntfile.js",
+        "package.json",
+        "README.md"
+    ],
+    "dependencies": {
+        "jquery": ">=1.11.0"
+    }
+}
