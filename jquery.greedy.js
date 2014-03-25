@@ -52,7 +52,6 @@
                 $newElement.css('background-position', this.randomBackgroundPosition());
                 return $newElement;
             } else {
-                console.log('creating new one');
                 return $('<div/>')
                     .css('background-image', 'url(' + this.options.src + ')')
                     .css('background-position', this.randomBackgroundPosition())
