@@ -1,6 +1,6 @@
 {
     "name": "jquery.greedy",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "main": "jquery.greedy.js",
     "ignore": [
         "source",
